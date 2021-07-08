@@ -6,8 +6,8 @@
 
 ## Skills
 
-> 1. [Python](https://github.com/unknown-jun/Python)
-> 2. SQL
+1. [Python](https://github.com/unknown-jun/Python)
+2. SQL
 
 ## Tech
 
