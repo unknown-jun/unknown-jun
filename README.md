@@ -1,16 +1,20 @@
-### Hi there 👋
+# 李 埈赫's Github
+> _Learn from scar, Don't be afraid to fail_
+> Keep calm and carry on
 
-<!--
-**unknown-jun/unknown-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+> 1. [Python](https://github.com/unknown-jun/Python)
+> 2. SQL
+
+## Tech
+
+
+- [Pandas](https://github.com/unknown-jun/Pandas)
+- Numpy
+- [Data Visualization](https://github.com/unknown-jun/Data-Visualization)
+- [Machine Learning](https://github.com/unknown-jun/Machine_Learning)
+- Deep Learning
+- Natural Language Processing
