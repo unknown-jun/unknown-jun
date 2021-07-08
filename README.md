@@ -1,5 +1,5 @@
 # 李 埈赫's Github
-> _Learn from scar, Don't be afraid to fail_
+> _Learn from scar, Don't be afraid to fail_  
 > Keep calm and carry on
 
 
