@@ -7,7 +7,7 @@
 ## Skills
 
 1. [Python](https://github.com/unknown-jun/Python)
-2. SQL
+2. [SQL](https://github.com/unknown-jun/Oracle_SQL)
 
 ## Tech
 
