@@ -16,6 +16,6 @@
 - Numpy
 - [Data Visualization](https://github.com/unknown-jun/Data-Visualization)
 - [Machine Learning](https://github.com/unknown-jun/Machine_Learning)
-- Deep Learning
+- [Deep Learning](https://github.com/unknown-jun/Deep_learning)
 - Natural Language Processing
 - Projects
