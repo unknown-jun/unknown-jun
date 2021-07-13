@@ -13,7 +13,7 @@
 
 
 - [Pandas](https://github.com/unknown-jun/Pandas)
-- Numpy
+- [Numpy](https://github.com/unknown-jun/Numpy)
 - [Data Visualization](https://github.com/unknown-jun/Data-Visualization)
 - [Machine Learning](https://github.com/unknown-jun/Machine_Learning)
 - [Deep Learning](https://github.com/unknown-jun/Deep_learning)
