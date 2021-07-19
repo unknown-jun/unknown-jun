@@ -1,7 +1,7 @@
 # 李 埈赫's Github
 > _Learn from scar, Don't be afraid to fail_  
 > Keep calm and carry on
-
+> Data analytics 
 
 
 ## Skills
@@ -18,4 +18,4 @@
 - [Machine Learning](https://github.com/unknown-jun/Machine_Learning)
 - [Deep Learning](https://github.com/unknown-jun/Deep_learning)
 - Natural Language Processing
-- Projects
+- Project
