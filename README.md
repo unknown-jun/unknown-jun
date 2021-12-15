@@ -18,5 +18,5 @@
 - [Machine Learning](https://github.com/unknown-jun/Machine_Learning)
 - [Deep Learning](https://github.com/unknown-jun/Deep_learning)
 - Natural Language Processing
-- Project
+- [Project](https://github.com/unknown-jun/seoul_data_contest)
 - toy project 
