@@ -19,5 +19,3 @@
 - [Deep Learning](https://github.com/unknown-jun/Deep_learning)
 - [Project](https://github.com/unknown-jun/seoul_data_contest)
 - [NLP](https://github.com/unknown-jun/NLP_study)
--
-- toy project 
